@@ -1,0 +1,13 @@
+//Rishab Jain,rjain9,cmps101,pa5,12/1/17
+
+Table of Contents:
+1.README
+2.Makefile
+3.List.c
+4.List.h
+5.Graph.h
+6.Graph.c  //used time as variable part of the constructor
+7.GraphTest.c
+8.FindComponents.c
+
+
